@@ -1,4 +1,6 @@
 # Intro de JavaScript 
 De mi curso de Node de cero a experto
 
-[Node: de cero a experto](https://fernando-herrera.com/#/curso/node-cero-experto)
+//==================================================== DEPLOY================================//
+
+[VER AQUI EL PROYECTO DEPLOYADO](https://rick-and-morty-app-sable-three.vercel.app/)
